@@ -1,3 +1,3 @@
-### Denislav Zaimov 👋
+### 🏄🏻‍♂️ Denislav Zaimov
 
 **`Digital Craftsman`** 
