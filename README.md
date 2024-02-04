@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`** 
 
-My journey started the very first time I sat on a computer, that thrill never disappiered, it is following me back to this day. I am an eager to learn and grow Software Engineering Student making the world a better place with code.
+The inception of my journey traces back to the moment I first took a seat in front of a computer. The exhilaration I experienced on that day has never waned; rather, it continues to accompany me to the present moment. As a passionate and driven Software Engineering student, I am fueled by an insatiable desire to learn and evolve. My mission extends beyond coding; it is about contributing to the enhancement of the world through innovative and impactful software solutions. The thrill that sparked within me during those initial computer sessions persists, propelling me forward in my quest to make a positive difference through code.
 
 ---
 
