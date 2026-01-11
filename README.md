@@ -1,36 +1,65 @@
-### 🏄🏻‍♂️ Denislav Zaimov
+<table>
+  <tr>
+    <td>
+      <h1>Denislav Zaimov</h1>
+      <p>ex-VMware Software Engineer building secure, scalable systems</p>
+      <p>
+        <a href="https://x.com/denislav_zaimov">X</a> ·
+        <a href="mailto:dzaimov01@gmail.com">dzaimov01@gmail.com</a> ·
+        <a href="https://cal.com/yourlink">Book a call</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**`Digital Craftsman`** 
+I help you ship MVPs and internal tools in weeks, not quarters.
+I help you design backend architectures that stay fast and maintainable as you grow.
+I help you reduce security risk before it becomes downtime or headlines.
 
-The inception of my journey traces back to the moment I first took a seat in front of a computer. The exhilaration I experienced on that day has never waned; rather, it continues to accompany me to the present moment. As a passionate and driven Software Engineering student, I am fueled by an insatiable desire to learn and evolve. My mission extends beyond coding; it is about contributing to the enhancement of the world through innovative and impactful software solutions. The thrill that sparked within me during those initial computer sessions persists, propelling me forward in my quest to make a positive difference through code.
+Proof
+- [Secure SaaS Starter Kit](https://github.com/<username>/<repo>) — auth (JWT/OAuth), RBAC, audit logs, rate limits, OWASP headers.
+- [API Security Gateway](https://github.com/<username>/<repo>) — reverse proxy with policy engine, JWT validation, schema checks, WAF-lite.
+- [Security Headers & CSP Generator](https://github.com/<username>/<repo>) — web + CLI generator, scanner, and recommendations report.
+- [Vulnerability Triage Dashboard](https://github.com/<username>/<repo>) — CVSS-like prioritization with PDF/Markdown reporting.
+- [Internal Admin Dashboard Template](https://github.com/<username>/<repo>) — CRUD, RBAC, audit trail, and metrics baked in.
+- [Event-Driven Order/Invoice Microservice](https://github.com/<username>/<repo>) — DDD, outbox pattern, idempotency, Kafka/Rabbit/Redis streams.
+- [Multi-tenant SaaS Demo](https://github.com/<username>/<repo>) — tenant isolation, per-tenant config, migrations, tenant-aware auth.
+- [Project Delivery Toolkit](https://github.com/<username>/<repo>) — scope docs, risk register, sprint plan, DoD, release checklist.
+- [SLA / Observability Pack](https://github.com/<username>/<repo>) — Prometheus/Grafana, structured logs, health checks, SLO docs.
+- [Secure Code Review Playbook](https://github.com/<username>/<repo>) — findings with fixes (SQLi, XSS, auth bugs).
 
----
+How I work
+- Discovery: goals, constraints, and success metrics.
+- Architecture: system design, data model, and risk map.
+- Build: iterative delivery with demos and checkpoints.
+- Security: OWASP hardening, auth, API protection.
+- Handoff: docs, runbooks, and team enablement.
 
-### 💻 Languages and Tools
+Stack
+<p>
+  <img alt="Java" height="32" src="https://skillicons.dev/icons?i=java" />
+  <img alt="Spring" height="32" src="https://skillicons.dev/icons?i=spring" />
+  <img alt="TypeScript" height="32" src="https://skillicons.dev/icons?i=ts" />
+  <img alt="Node.js" height="32" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="React" height="32" src="https://skillicons.dev/icons?i=react" />
+  <img alt="Next.js" height="32" src="https://skillicons.dev/icons?i=nextjs" />
+  <img alt="PostgreSQL" height="32" src="https://skillicons.dev/icons?i=postgres" />
+  <img alt="Docker" height="32" src="https://skillicons.dev/icons?i=docker" />
+  <img alt="CI" height="32" src="https://skillicons.dev/icons?i=githubactions" />
+  <img alt="AWS" height="32" src="https://skillicons.dev/icons?i=aws" />
+  <img alt="Redis" height="32" src="https://skillicons.dev/icons?i=redis" />
+  <img alt="Kafka" height="32" src="https://skillicons.dev/icons?i=kafka" />
+  <img alt="TensorFlow" height="32" src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+Security focus
+Auth flows, access control, input validation, logging, secrets, rate limits
 
-#
+Availability
+Open for 1–2 projects per month.
 
-### 📊 Stats
+Problem → Slow manual workflow and brittle scripts.
+Approach → Modular backend, automated pipelines, least-privilege access.
+Result → 4x faster delivery and reduced incident risk.
 
-![Denislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzaimov01&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dzaimov01&theme=gruvbox&border_radius=4.5) -->
-
-#
+If you need secure delivery and reliable architecture, DM or book a call.
