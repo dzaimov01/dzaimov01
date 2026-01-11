@@ -6,7 +6,7 @@
       <p>
         <a href="https://x.com/denislav_zaimov">X</a> ·
         <a href="mailto:dzaimov01@gmail.com">dzaimov01@gmail.com</a> ·
-        <a href="https://cal.com/yourlink">Book a call</a>
+        <a href="https://calendly.com/dzaimov-nexuvault/strategic-business-systems-call">Book a call</a>
       </p>
     </td>
   </tr>
@@ -17,7 +17,7 @@ I help you design backend architectures that stay fast and maintainable as you g
 I help you reduce security risk before it becomes downtime or headlines.
 
 Proof
-- [Secure SaaS Starter Kit](https://github.com/<username>/<repo>) — auth (JWT/OAuth), RBAC, audit logs, rate limits, OWASP headers.
+- [Secure SaaS Starter Kit](https://github.com/dzaimov01/Secure-SaaS-Starter-Kit) — auth (JWT/OAuth), RBAC, audit logs, rate limits, OWASP headers.
 - [API Security Gateway](https://github.com/<username>/<repo>) — reverse proxy with policy engine, JWT validation, schema checks, WAF-lite.
 - [Security Headers & CSP Generator](https://github.com/<username>/<repo>) — web + CLI generator, scanner, and recommendations report.
 - [Vulnerability Triage Dashboard](https://github.com/<username>/<repo>) — CVSS-like prioritization with PDF/Markdown reporting.
