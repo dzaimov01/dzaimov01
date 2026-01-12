@@ -18,15 +18,15 @@ I help you reduce security risk before it becomes downtime or headlines.
 
 Proof
 - [Secure SaaS Starter Kit](https://github.com/dzaimov01/Secure-SaaS-Starter-Kit) — auth (JWT/OAuth), RBAC, audit logs, rate limits, OWASP headers.
-- [API Security Gateway](https://github.com/<username>/<repo>) — reverse proxy with policy engine, JWT validation, schema checks, WAF-lite.
+- [API Security Gateway](https://github.com/dzaimov01/api-security-gateway) — reverse proxy with policy engine, JWT validation, schema checks, WAF-lite.
 - [Security Headers & CSP Generator](https://github.com/<username>/<repo>) — web + CLI generator, scanner, and recommendations report.
-- [Vulnerability Triage Dashboard](https://github.com/<username>/<repo>) — CVSS-like prioritization with PDF/Markdown reporting.
-- [Internal Admin Dashboard Template](https://github.com/<username>/<repo>) — CRUD, RBAC, audit trail, and metrics baked in.
-- [Event-Driven Order/Invoice Microservice](https://github.com/<username>/<repo>) — DDD, outbox pattern, idempotency, Kafka/Rabbit/Redis streams.
-- [Multi-tenant SaaS Demo](https://github.com/<username>/<repo>) — tenant isolation, per-tenant config, migrations, tenant-aware auth.
-- [Project Delivery Toolkit](https://github.com/<username>/<repo>) — scope docs, risk register, sprint plan, DoD, release checklist.
-- [SLA / Observability Pack](https://github.com/<username>/<repo>) — Prometheus/Grafana, structured logs, health checks, SLO docs.
-- [Secure Code Review Playbook](https://github.com/<username>/<repo>) — findings with fixes (SQLi, XSS, auth bugs).
+- [Vulnerability Triage Dashboard](https://github.com/dzaimov01/security-headers-csp-toolkit) — CVSS-like prioritization with PDF/Markdown reporting.
+- [Internal Admin Dashboard Template](https://github.com/<username>/<repo>) — CRUD, RBAC, audit trail, and metrics baked in. (Comming Soon...)
+- [Event-Driven Order/Invoice Microservice](https://github.com/<username>/<repo>) — DDD, outbox pattern, idempotency, Kafka/Rabbit/Redis streams. (Comming Soon...)
+- [Multi-tenant SaaS Demo](https://github.com/<username>/<repo>) — tenant isolation, per-tenant config, migrations, tenant-aware auth. (Comming Soon...)
+- [Project Delivery Toolkit](https://github.com/<username>/<repo>) — scope docs, risk register, sprint plan, DoD, release checklist. (Comming Soon...)
+- [SLA / Observability Pack](https://github.com/<username>/<repo>) — Prometheus/Grafana, structured logs, health checks, SLO docs. (Comming Soon...)
+- [Secure Code Review Playbook](https://github.com/<username>/<repo>) — findings with fixes (SQLi, XSS, auth bugs). (Comming Soon...)
 
 How I work
 - Discovery: goals, constraints, and success metrics.
