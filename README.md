@@ -19,8 +19,8 @@ I help you reduce security risk before it becomes downtime or headlines.
 Proof
 - [Secure SaaS Starter Kit](https://github.com/dzaimov01/Secure-SaaS-Starter-Kit) — auth (JWT/OAuth), RBAC, audit logs, rate limits, OWASP headers.
 - [API Security Gateway](https://github.com/dzaimov01/api-security-gateway) — reverse proxy with policy engine, JWT validation, schema checks, WAF-lite.
-- [Security Headers & CSP Generator](https://github.com/<username>/<repo>) — web + CLI generator, scanner, and recommendations report.
-- [Vulnerability Triage Dashboard](https://github.com/dzaimov01/security-headers-csp-toolkit) — CVSS-like prioritization with PDF/Markdown reporting.
+- [Security Headers & CSP Generator](https://github.com/dzaimov01/security-headers-csp-toolkit) — web + CLI generator, scanner, and recommendations report.
+- [Vulnerability Triage Dashboard](https://github.com/<username>/<repo>) — CVSS-like prioritization with PDF/Markdown reporting. (Comming Soon...)
 - [Internal Admin Dashboard Template](https://github.com/<username>/<repo>) — CRUD, RBAC, audit trail, and metrics baked in. (Comming Soon...)
 - [Event-Driven Order/Invoice Microservice](https://github.com/<username>/<repo>) — DDD, outbox pattern, idempotency, Kafka/Rabbit/Redis streams. (Comming Soon...)
 - [Multi-tenant SaaS Demo](https://github.com/<username>/<repo>) — tenant isolation, per-tenant config, migrations, tenant-aware auth. (Comming Soon...)
