@@ -21,9 +21,9 @@ Proof
 - [API Security Gateway](https://github.com/dzaimov01/api-security-gateway) — reverse proxy with policy engine, JWT validation, schema checks, WAF-lite.
 - [Security Headers & CSP Generator](https://github.com/dzaimov01/security-headers-csp-toolkit) — web + CLI generator, scanner, and recommendations report.
 - [Vulnerability Triage Dashboard](https://github.com/dzaimov01/vulnerability-triage-dashboard) — CVSS-like prioritization with PDF/Markdown reporting. 
-- [Internal Admin Dashboard Template](https://github.com/<username>/<repo>) — CRUD, RBAC, audit trail, and metrics baked in. (Comming Soon...)
-- [Event-Driven Order/Invoice Microservice](https://github.com/<username>/<repo>) — DDD, outbox pattern, idempotency, Kafka/Rabbit/Redis streams. (Comming Soon...)
-- [Multi-tenant SaaS Demo](https://github.com/<username>/<repo>) — tenant isolation, per-tenant config, migrations, tenant-aware auth. (Comming Soon...)
+- [Internal Admin Dashboard Template](https://github.com/dzaimov01/internal-admin-dashboard-template) — CRUD, RBAC, audit trail, and metrics baked in.
+- [Event-Driven Order/Invoice Microservice](https://github.com/dzaimov01/event-driven-order-invoice-ms) — DDD, outbox pattern, idempotency, Kafka/Rabbit/Redis streams.
+- [Multi-tenant SaaS Demo](https://github.com/dzaimov01/multi-tenant-saas-demo) — tenant isolation, per-tenant config, migrations, tenant-aware auth.
 - [Project Delivery Toolkit](https://github.com/<username>/<repo>) — scope docs, risk register, sprint plan, DoD, release checklist. (Comming Soon...)
 - [SLA / Observability Pack](https://github.com/<username>/<repo>) — Prometheus/Grafana, structured logs, health checks, SLO docs. (Comming Soon...)
 - [Secure Code Review Playbook](https://github.com/<username>/<repo>) — findings with fixes (SQLi, XSS, auth bugs). (Comming Soon...)
